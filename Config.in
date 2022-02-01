@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_CONAN_PATH/package/conan-examples/Config.in"
