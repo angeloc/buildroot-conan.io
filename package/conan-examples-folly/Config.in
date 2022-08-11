@@ -1,0 +1,6 @@
+config BR2_PACKAGE_CONAN_EXAMPLES_FOLLY
+	bool "conano.io folly example"
+	help
+	  Folly conan package example
+
+	  git@github.com:conan-io/examples.git

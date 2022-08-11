@@ -1,1 +1,2 @@
-source "$BR2_EXTERNAL_CONAN_PATH/package/conan-examples/Config.in"
+source "$BR2_EXTERNAL_CONAN_PATH/package/conan-examples-md5/Config.in"
+source "$BR2_EXTERNAL_CONAN_PATH/package/conan-examples-folly/Config.in"

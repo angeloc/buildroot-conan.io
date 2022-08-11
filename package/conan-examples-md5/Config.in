@@ -1,0 +1,6 @@
+config BR2_PACKAGE_CONAN_EXAMPLES_MD5
+	bool "conano.io MD5 example"
+	help
+	  MD5 conan package example
+
+	  git@github.com:conan-io/examples.git
